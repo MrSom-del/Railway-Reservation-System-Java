@@ -34,5 +34,5 @@ RailwayManagementSystem/
 │   │   ├── TrainService.java
 │   │   └── TicketService.java
 |   |
-│   | Main.java
+│   ├── Main.java
 ```
