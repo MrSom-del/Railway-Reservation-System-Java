@@ -19,6 +19,7 @@ A console-based Railway Reservation System developed using Core Java.
 
 ## Project Structure
 
+```
 RailwayManagementSystem/
 │
 ├── src/
@@ -34,4 +35,4 @@ RailwayManagementSystem/
 │   │   └── TicketService.java
 |   |
 │   | Main.java
-
+```
