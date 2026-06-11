@@ -21,8 +21,19 @@ A console-based Railway Reservation System developed using Core Java.
 
 RailwayManagementSystem/
 │
-├── model/
-├── service/
-├── util/
-├── exception/
-└── Main.java
+├── src/
+│   ├── model/
+│   │   ├── Person.java
+│   │   ├── User.java
+│   │   ├── Train.java
+│   │   └── Ticket.java
+│   │
+│   ├── service/
+│   │   ├── UserService.java
+│   │   ├── TrainService.java
+│   │   └── TicketService.java
+│   │
+│   ├── util/
+│   ├── exception/
+│   └── Main.java
+
