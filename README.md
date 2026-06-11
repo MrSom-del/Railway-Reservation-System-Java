@@ -32,8 +32,6 @@ RailwayManagementSystem/
 │   │   ├── UserService.java
 │   │   ├── TrainService.java
 │   │   └── TicketService.java
-│   │
-│   ├── util/
-│   ├── exception/
-│   └── Main.java
+|   |
+│   | Main.java
 
