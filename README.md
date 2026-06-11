@@ -1,2 +1,28 @@
-# Railway-Reservation-System-Java
-A console-based Railway Reservation Management System built using Core Java, OOP, Collections, File Handling, and Multithreading.
+# Railway Reservation Management System
+
+## Overview
+A console-based Railway Reservation System developed using Core Java.
+
+## Features
+- User Registration
+- User Login
+- View Trains
+- Search Train
+- Book Ticket
+- View Tickets
+
+## Technologies Used
+- Java
+- OOP
+- Collections Framework
+- Exception Handling
+
+## Project Structure
+
+RailwayManagementSystem/
+│
+├── model/
+├── service/
+├── util/
+├── exception/
+└── Main.java
